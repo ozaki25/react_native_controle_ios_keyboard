@@ -1,0 +1,3 @@
+rootProject.name = 'IosKeyboard'
+
+include ':app'
